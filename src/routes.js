@@ -13,7 +13,7 @@ router.get('/api/data/characters', (req, res) => {
     res.send(characters);
 });
 
-//const x = [':id', ':name'];
+
 
 //Si lo quieres llamar por ID *Quitar el codigo de comentario*
 
